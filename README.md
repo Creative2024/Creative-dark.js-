@@ -5,7 +5,8 @@ https://creative2024.github.io/Creative-dark.js-/
 
 ## css
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Creative2024/Creative-dark.js-@main/dome/assets/css/Creative-dark.min.css">
+<script src="https://cdn.jsdelivr.net/gh/Creative2024/Creative-dark.js-@main/dome/assets/js/Creative-dark.min.js"> 
+
 
 ## js
 <script src="https://cdn.jsdelivr.net/gh/Creative2024/Creative-dark.js-@main/dome/assets/js/Creative-dark.min.js"> 
